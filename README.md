@@ -1,26 +1,26 @@
-# Airlines_data
+# Airlines data in Schiphol Airport (Amsterdam)
 
-Project Purpose:
-To 
-
-
-Business Case:
+## Project Purpose:
+To map all routes and operating airlines from Amsterdam, and analyze which destinations offer the lowest fares.
 
 
-Goal:
+## Business Case:
 
 
-Deliverable:
+## Goal:
 
 
-In Repository:
+## Deliverable:
 
 
-Results and Model Evaluation:
+## In Repository:
+
+
+## Results and Model Evaluation:
 
 
 
-Business Impact:
+## Business Impact:
 
 
-Next Steps:
+## Next Steps:
