@@ -5,7 +5,7 @@ To map all routes and operating airlines from Amsterdam, and analyze which desti
 
 
 ## Business Case:
-
+Download data information from the public Flight API (code in xxx)
 
 ## Goal:
 
